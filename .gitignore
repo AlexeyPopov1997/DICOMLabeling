@@ -1,0 +1,9 @@
+# Ignore pycharm files
+.idea
+*.iml
+
+# Ignore images files
+*.dcm
+
+# Ignore temp image file
+.temp/temp.png
