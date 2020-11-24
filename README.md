@@ -8,12 +8,13 @@ The labeling is carried out in five parts of the human body:
 * Abdomen
 * Pelvis
 
-[![DICOMLabeling](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/labeling.png?raw=true)]
+![DICOMLabeling](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/labeling.png?raw=true)
 
 Annotations for an image are written to the metadata of the processed image using overlays:
-[![Metadata](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/metadata.png?raw=true)]
+![Metadata](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/metadata.png?raw=true)
 
-The labeling results can be viewed using **Weasis**(https://github.com/nroduit/Weasis).
+The labeling results can be viewed using [Weasis](https://github.com/nroduit/Weasis).
+![Metadata](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/result.png?raw=true)
 
 ## Creating and installing virtual environment
 1. I suggest creating an environment from an [environment.yml](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/environment.yml) file (**Warning!!! You need to change `prefix` in the file**):
