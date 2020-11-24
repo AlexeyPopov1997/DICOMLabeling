@@ -1,5 +1,5 @@
 # DICOMLabeling
-Applications for labelong data from the localizer of a computed tomograph.
+Applications for labeling data from the localizer of a computed tomograph.
 
 The labeling is carried out in five parts of the human body:
 * Head
