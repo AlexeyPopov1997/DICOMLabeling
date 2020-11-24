@@ -17,7 +17,7 @@ The labeling results can be viewed using [Weasis](https://github.com/nroduit/Wea
 ![Metadata](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/pictures/result.png?raw=true)
 
 ## Creating and installing virtual environment
-1. I suggest creating an environment from an [environment.yml](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/environment.yml) file (**Warning!!! You need to change `prefix` in the file**):
+1. I suggest creating an environment from an [environment.yml](https://github.com/AlexeyPopov1997/DICOMLabeling/blob/master/environment.yml) file (**You need to change `prefix` in the file**):
 ```sh
 conda env create -f environment.yml
 ```
