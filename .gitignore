@@ -2,6 +2,10 @@
 .idea
 *.iml
 
+# Ignore vscode files
+.vscode
+src/__pycache__
+
 # Ignore images files
 *.dcm
 
